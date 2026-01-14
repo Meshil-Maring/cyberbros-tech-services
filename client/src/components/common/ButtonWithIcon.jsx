@@ -1,8 +1,9 @@
 
-function ButtonWithIcon({title,icon, color}) {
+function ButtonWithIcon({title,icon, btn}) {
+
   return (
     <div>
-      <button className=" {color} flex justify-center items-center w-45 py-2 text-center border-2  border-white/50 text-l ">{title}
+      <button className={btn}>{title}
       <span>{icon}</span>
       </button>
       

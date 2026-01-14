@@ -7,7 +7,7 @@ function Navbar() {
     <div className=" bg-black/80 w-full fixed flex justify-center top-0">
       <div
         id="navBar"
-        className=" w-270 text-white flex  justify-between  py-8"
+        className=" w-270 text-white/90 flex  justify-between  py-8"
       >
         <h1 className="text-2xl font-bold">Cyber Bros</h1>
 
