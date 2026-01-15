@@ -5,11 +5,14 @@ frontend/
 │ ├── robots.txt
 │ └── index.html
 │
-├── src/
+├── src/ 
 │ ├── assets/
 │ │ ├── images/
 │ │ ├── icons/
 │ │ └── fonts/
+| |
+| ├── data/
+│ | └── dummyData.json
 │ │
 │ ├── components/
 │ │ ├── common/

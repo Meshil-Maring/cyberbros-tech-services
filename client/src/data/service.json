@@ -1,0 +1,47 @@
+{
+  "services_intro": {
+    "title": "Services",
+    "description": "I focus on delivering high-quality web development services that solve real business problems. Each service is designed to provide clear value and measurable results."
+  },
+  "services": [
+    {
+      "name": "Website Design & Development",
+      "what_it_is": "Full-service website creation from initial concept through launch, including information architecture, visual design, frontend and backend development, content integration, and deployment.",
+      "who_its_for": "Businesses launching a new web presence, companies outgrowing their current website, or organizations needing a complete redesign.",
+      "problem_it_solves": "Eliminates the complexity of managing multiple vendors and ensures cohesive design and functionality.",
+      "what_you_get": "A professional, responsive, SEO-friendly website that represents your brand and supports future growth."
+    },
+    {
+      "name": "Frontend Development",
+      "what_it_is": "Implementation of user interfaces using React, Vue, or vanilla JavaScript with focus on performance, accessibility, and responsiveness.",
+      "who_its_for": "Teams with existing backends, agencies needing development partners, or companies scaling frontend development.",
+      "problem_it_solves": "Bridges the gap between design and functionality while maintaining clean, maintainable code.",
+      "what_you_get": "Fast-loading, accessible, well-documented frontend code that works across all devices."
+    },
+    {
+      "name": "Backend & API Development",
+      "what_it_is": "Server-side development, database design, API creation, authentication systems, and third-party integrations.",
+      "who_its_for": "Businesses building web applications or requiring secure data handling and integrations.",
+      "problem_it_solves": "Provides scalable, secure foundations for data-driven applications and automation.",
+      "what_you_get": "Reliable backend systems that scale, integrate smoothly, and protect sensitive data."
+    },
+    {
+      "name": "Performance Optimization",
+      "what_it_is": "Speed analysis, bottleneck identification, asset optimization, caching strategies, and database tuning.",
+      "who_its_for": "Websites with slow load times or failing Core Web Vitals.",
+      "problem_it_solves": "Improves load speed, SEO rankings, and user experience while reducing server costs.",
+      "what_you_get": "A measurably faster website with improved performance metrics and user satisfaction."
+    },
+    {
+      "name": "Maintenance & Support",
+      "what_it_is": "Ongoing support including updates, bug fixes, monitoring, backups, and technical consultation.",
+      "who_its_for": "Businesses without in-house developers or needing a reliable technical partner.",
+      "problem_it_solves": "Prevents security risks and ensures the website stays functional and up-to-date.",
+      "what_you_get": "Peace of mind with continuous monitoring, backups, and quick issue resolution."
+    }
+  ],
+  "cta": {
+    "title": "Not sure which service you need?",
+    "message": "Let's discuss your project and determine the best approach based on your goals."
+  }
+}
