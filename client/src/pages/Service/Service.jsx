@@ -1,8 +1,8 @@
-import Navbar from "../../components/layout/Navbar";
 import ServiceFooter from "./ServiceFooter";
 import ServiceHeading from "./ServiceHeading";
 import ServiceSection from "./ServiceSection";
-import service_data from "./service.json";
+import service_data from "../../data/service.json";
+import Navbar from "../../components/layout/Navbar";
 
 function Service() {
   console.log(service_data.services[0].name);

@@ -1,0 +1,59 @@
+{
+  "work": {
+    "intro": "Each project presented unique challenges and required thoughtful solutions. These case studies demonstrate how structured approach and technical expertise solve real business problems.",
+    "case_studies": [
+      {
+        "category": "E-commerce Platform",
+        "title": "Custom Shopify Integration for Growing Retailer",
+        "problem": "Manual inventory management across multiple sales channels was creating errors and wasting hours of staff time daily. Stock levels were frequently wrong, leading to overselling or missed sales opportunities.",
+        "approach": "Analyzed their existing workflow, identified automation opportunities, and designed a custom integration connecting Shopify with their warehouse management system. Built automated sync for inventory, orders, and customer data.",
+        "solution": "Developed a real-time integration that updates inventory across all channels automatically. Created custom dashboard for monitoring sync status and handling edge cases. Implemented error logging and notifications.",
+        "outcome": "Reduced order processing time by 80%, eliminated stock discrepancy errors completely, freed up 15 hours of staff time per week, and increased sales by removing stock inaccuracies that were preventing purchases."
+      },
+      {
+        "category": "SaaS Application",
+        "title": "Dashboard Redesign for Analytics Platform",
+        "problem": "Users found the existing dashboard confusing and couldn't find the data they needed. This led to high support ticket volume, frustrated users, and increased churn during trial period.",
+        "approach": "Conducted user research to identify pain points, reorganized information architecture based on actual user workflows, created new data visualization system, and simplified navigation structure.",
+        "solution": "Rebuilt entire frontend with improved data visualization, intuitive navigation, customizable views, and better performance. Implemented responsive design for mobile access and added contextual help.",
+        "outcome": "Support tickets decreased by 60%, user satisfaction scores increased 35%, time-to-insight improved by 45%, and trial-to-paid conversion rate increased by 22%."
+      },
+      {
+        "category": "Professional Services",
+        "title": "Website Rebuild for Consulting Firm",
+        "problem": "Outdated website didn't reflect their expertise, was difficult for them to update, loaded slowly, and generated few quality leads. Content was disorganized and navigation was confusing.",
+        "approach": "Created clear content strategy focused on demonstrating expertise, designed professional interface that matches their brand positioning, built with modern CMS for easy updates, optimized for performance and SEO.",
+        "solution": "Developed new website with clean design, clear service descriptions, case study showcase, blog platform, and contact forms. Implemented fast-loading architecture and mobile-optimized design.",
+        "outcome": "Page load time decreased from 8s to 1.5s, organic search traffic increased 180%, qualified contact form submissions increased 240%, and client reported website now accurately represents their brand."
+      },
+      {
+        "category": "B2B Software",
+        "title": "API Development for Integration Platform",
+        "problem": "Customers needed to integrate their platform with dozens of third-party tools, but manual integration development was slow and expensive. Each new integration took weeks to build.",
+        "approach": "Designed flexible API architecture that could handle various integration patterns, created developer-friendly documentation, built testing tools, and implemented monitoring and error handling.",
+        "solution": "Developed RESTful API with comprehensive documentation, built SDK for common languages, created sandbox environment for testing, and implemented usage analytics dashboard.",
+        "outcome": "New integrations now take days instead of weeks to build, partner ecosystem grew from 5 to 40 integrations in six months, API adoption exceeded targets by 150%, and developer satisfaction score reached 4.8/5."
+      },
+      {
+        "category": "Healthcare Technology",
+        "title": "Patient Portal Development",
+        "problem": "Manual appointment scheduling and patient communication was overwhelming staff and creating poor patient experience. Patients had no way to access their information online.",
+        "approach": "Designed secure patient portal meeting HIPAA requirements, integrated with existing practice management system, created intuitive interface for non-technical users, and implemented appointment scheduling workflow.",
+        "solution": "Built web portal allowing patients to schedule appointments, view test results, message providers, and update information. Implemented two-factor authentication and encryption for security.",
+        "outcome": "Phone call volume decreased 40%, administrative time spent on scheduling reduced by 25 hours per week, patient satisfaction scores increased 30%, and no-show rate decreased 15%."
+      },
+      {
+        "category": "Non-Profit Organization",
+        "title": "Donation Platform and CRM Integration",
+        "problem": "Donation process was cumbersome, donor data was scattered across systems, and they had no way to track donor engagement or run effective fundraising campaigns.",
+        "approach": "Streamlined donation flow to reduce friction, integrated payment processing with CRM system, built donor dashboard for managing contributions, and created automated thank-you and receipt system.",
+        "solution": "Developed modern donation platform with one-click recurring donations, integrated Stripe for payments, connected with their CRM for donor tracking, and built reporting dashboard for fundraising team.",
+        "outcome": "Average donation amount increased 35%, recurring donor conversion improved 50%, processing time for donations reduced from hours to minutes, and campaign effectiveness improved through better donor data."
+      }
+    ],
+    "cta": {
+      "title": "Your project could be next",
+      "description": "Every successful project starts with understanding your specific needs and challenges. Let's discuss how the same structured approach can solve your business problems."
+    }
+  }
+}

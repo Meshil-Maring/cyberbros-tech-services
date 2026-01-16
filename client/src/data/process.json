@@ -1,0 +1,169 @@
+{
+  "process_title": "My Process",
+  "description": "I follow a structured, seven-phase workflow that removes uncertainty and keeps projects organized. This system ensures nothing gets missed, deadlines are met, and you always know what's happening.",
+  "phases": [
+    {
+      "phase": 1,
+      "title": "Discovery & Requirements Gathering",
+      "goal": "Understanding your business, goals, and project needs before any code is written.",
+      "steps": [
+        {
+          "title": "Initial consultation call",
+          "details": "We discuss your business, target audience, competition, and what success looks like for this project."
+        },
+        {
+          "title": "Gathering necessary materials",
+          "details": "You provide brand guidelines, content, designs, system access, and other required materials."
+        },
+        {
+          "title": "Defining scope and constraints",
+          "details": "We establish project boundaries, features, budget, timeline, and technical requirements."
+        },
+        {
+          "title": "Setting clear expectations",
+          "details": "I outline communication methods, workflow, responsibilities, and deliverables."
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "title": "Documentation & Planning",
+      "goal": "Creating a written roadmap for the project.",
+      "steps": [
+        {
+          "title": "Requirements documentation",
+          "details": "A detailed document outlining all features and technical specifications."
+        },
+        {
+          "title": "Information architecture and sitemap",
+          "details": "Mapping site structure, navigation, and page relationships."
+        },
+        {
+          "title": "Technical decisions and architecture",
+          "details": "Choosing technologies, integrations, hosting, and explaining decisions clearly."
+        },
+        {
+          "title": "Project timeline and milestones",
+          "details": "A realistic schedule with milestones, deliverables, and review points."
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "Design Phase",
+      "goal": "Creating visual design and user experience before development.",
+      "steps": [
+        {
+          "title": "Wireframes and mockups",
+          "details": "Low and high-fidelity designs for layout and visuals."
+        },
+        {
+          "title": "User experience decisions",
+          "details": "Decisions on navigation, interactions, and user flows."
+        },
+        {
+          "title": "Design feedback and revisions",
+          "details": "Client feedback is reviewed and improvements are made."
+        },
+        {
+          "title": "Design approval and sign-off",
+          "details": "Final approval before moving to development."
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "title": "Development Phase",
+      "goal": "Building the website with clean, scalable code.",
+      "steps": [
+        {
+          "title": "Clean, scalable code",
+          "details": "Modern frameworks, organized code, and best practices."
+        },
+        {
+          "title": "Performance-focused implementation",
+          "details": "Optimized speed, images, and minimal dependencies."
+        },
+        {
+          "title": "SEO-ready foundation",
+          "details": "Proper structure, meta tags, responsiveness, and SEO practices."
+        },
+        {
+          "title": "Regular progress updates",
+          "details": "Weekly updates and real-time staging links."
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "title": "Testing & Review",
+      "goal": "Ensuring everything works perfectly before launch.",
+      "steps": [
+        {
+          "title": "Cross-browser and device testing",
+          "details": "Testing on all major browsers and devices."
+        },
+        {
+          "title": "Performance and accessibility checks",
+          "details": "Load time optimization and accessibility audits."
+        },
+        {
+          "title": "Bug fixing and refinement",
+          "details": "Fixing issues and polishing interactions."
+        },
+        {
+          "title": "Client review and feedback",
+          "details": "Final testing and feedback before launch."
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "title": "Deployment & Launch",
+      "goal": "Moving the website safely to production.",
+      "steps": [
+        {
+          "title": "Secure deployment process",
+          "details": "SSL setup, security headers, and production configuration."
+        },
+        {
+          "title": "Final pre-launch checks",
+          "details": "Verifying functionality, analytics, and integrations."
+        },
+        {
+          "title": "Go-live support",
+          "details": "Monitoring performance during launch."
+        },
+        {
+          "title": "Documentation handoff",
+          "details": "Guides for content updates and system access."
+        }
+      ]
+    },
+    {
+      "phase": 7,
+      "title": "Post-Launch Support",
+      "goal": "Ongoing support and long-term partnership.",
+      "steps": [
+        {
+          "title": "Monitoring and maintenance",
+          "details": "Performance monitoring, updates, and bug fixes."
+        },
+        {
+          "title": "Content and feature updates",
+          "details": "Adding features and updating content as needed."
+        },
+        {
+          "title": "Technical consultation",
+          "details": "Guidance on improvements and integrations."
+        },
+        {
+          "title": "Long-term partnership",
+          "details": "Ongoing collaboration for continued success."
+        }
+      ]
+    }
+  ],
+  "closing_title": "This process keeps projects on track",
+  "closing_statement": "This process keeps projects organized, on track, and stress-free with full transparency."
+}
