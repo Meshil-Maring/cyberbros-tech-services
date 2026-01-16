@@ -12,7 +12,7 @@ import ContactSection4 from "./ContactSection4";
 
 function ContactSection() {
   return (
-    <div className='w-128 mb-12'>
+    <div className='w-lg mb-12'>
 
 
      <ContactSection1  img={<IoTimeOutline className="text-3xl text-white/50" />} title={data.contact.response_time.title} content={data.contact.response_time.content}/>

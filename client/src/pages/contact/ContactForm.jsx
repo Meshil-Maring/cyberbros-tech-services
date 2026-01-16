@@ -4,7 +4,7 @@ function ContactForm() {
   const whitebtn =
     " flex justify-center items-center w-full py-2 text-center text-l  bg-white/90 text-black";
   return (
-    <div className="w-128 h-180 ">
+    <div className="w-lg h-180 ">
       <form action="">
         <div className="w-full flex flex-col gap-3 mb-8 ">
           <label htmlFor="name">Your Name</label>
