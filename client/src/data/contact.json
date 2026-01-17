@@ -1,0 +1,39 @@
+{
+  "contact": {
+    "title": "Contact",
+    "intro": "I'd be happy to discuss your project. Fill out the form below with some details about what you're looking to build, and I'll get back to you within 24 hours.",
+
+    "response_time": {
+      "title": "Response Time",
+      "content": "I typically respond within 24 hours on business days (Monday-Friday). If you don't hear back within that time, please check your spam folder or send a follow-up."
+    },
+
+    "what_happens_next": {
+      "title": "What Happens Next",
+      "intro": "After you submit this form, here's what to expect:",
+      "steps": [
+        "I'll review your project details",
+        "I'll reply with initial thoughts and questions",
+        "We'll schedule a call if it seems like a good fit",
+        "I'll provide a detailed proposal with timeline and pricing"
+      ]
+    },
+
+    "what_to_include": {
+      "title": "What to Include",
+      "intro": "Help me understand your project better by including:",
+      "items": [
+        "What business problem you're trying to solve",
+        "Your target timeline",
+        "Any budget constraints or expectations",
+        "Existing systems that need to integrate",
+        "Any specific technical requirements"
+      ]
+    },
+
+    "no_pressure": {
+      "title": "No Pressure",
+      "content": "Reaching out doesn't commit you to anything. I'll give you an honest assessment of whether I'm the right fit for your project. If I'm not, I'll tell you—and if possible, point you in a better direction."
+    }
+  }
+}

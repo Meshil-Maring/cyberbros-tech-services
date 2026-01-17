@@ -1,0 +1,83 @@
+{
+  "about": {
+    "title": "About",
+    "content": "I'm a web developer who believes good software comes from clear thinking, careful planning, and honest communication—not clever tricks or cutting corners."
+  },
+
+  "approach_to_work": {
+    "title": "My approach to work",
+    "paragraphs": [
+      "I treat every project as if it were my own business. That means asking hard questions upfront, being honest about what's realistic, and focusing on solutions that actually work in the real world—not just in demos.",
+      "Technical skills matter, but they're only part of the picture. What really makes projects succeed is understanding the business problem you're trying to solve, communicating clearly throughout the process, and building something maintainable that won't become a burden down the road.",
+      "I don't oversell or overpromise. If something is a bad idea, I'll tell you. If there's a simpler way to achieve your goal, I'll suggest it—even if it means less work for me. Building long-term relationships based on trust matters more than maximizing any individual project."
+    ]
+  },
+
+  "values": {
+    "title": "Values that guide my work",
+    "items": [
+      {
+        "heading": "Clarity over cleverness",
+        "content": "Simple, readable code that any developer can understand beats clever tricks that only the original author comprehends. Future you (and your next developer) will appreciate it."
+      },
+      {
+        "heading": "Substance over surface",
+        "content": "A website that loads in 1 second and converts visitors matters more than fancy animations that distract users. Pretty is nice, but functional is essential."
+      },
+      {
+        "heading": "Prevention over reaction",
+        "content": "Proper planning, documentation, and testing prevent most problems. It's easier to build something right the first time than to fix it later when it's holding up your business."
+      },
+      {
+        "heading": "Long-term over short-term",
+        "content": "I build for maintainability and scalability, not just to hit a launch date. Cutting corners might save time today, but it costs much more when you're dealing with the consequences months later."
+      }
+    ]
+  },
+
+  "communication": {
+    "title": "How I communicate",
+    "points": [
+      "I explain technical concepts in plain language. You don't need to understand how DNS works or what a CDN is—I'll tell you what it means for your business in terms you can act on.",
+      "I respond to messages within 24 hours on business days. I provide regular updates so you always know project status. I flag potential issues early instead of hoping they'll resolve themselves.",
+      "I listen more than I talk. Your business expertise combined with my technical expertise produces better results than either of us working alone."
+    ]
+  },
+
+  "client_experience": {
+    "title": "Why clients enjoy working with me",
+    "items": [
+      {
+        "heading": "No surprises",
+        "content": "I'm upfront about timelines, costs, and potential challenges. If something changes, you'll know immediately—not three days before deadline."
+      },
+      {
+        "heading": "No confusion",
+        "content": "You always understand what's happening, why, and what comes next. I document everything and make sure we're aligned before moving forward."
+      },
+      {
+        "heading": "No jargon",
+        "content": "I speak in terms of business outcomes, not technical specifications. When technical details matter, I explain them clearly."
+      },
+      {
+        "heading": "No stress",
+        "content": "I handle the complexity so you can focus on your business. I follow a proven process that removes uncertainty and keeps projects moving smoothly."
+      }
+    ]
+  },
+
+  "projects": {
+    "title": "The type of projects I take on",
+    "paragraphs": [
+      "I work with serious businesses and organizations that value quality, reliability, and long-term thinking. I'm not the cheapest option, but I am a safe one.",
+      "I prefer working with clients who understand that good software takes time to build properly, who value clear communication and collaboration, and who are building something meant to last.",
+      "I work with a limited number of clients at a time. This ensures each project gets proper attention and I can maintain the quality standards that produce successful results."
+    ]
+  },
+
+  "call_to_action": {
+    "title": "Let's work together",
+    "content": "If this approach resonates with you and you have a project that needs someone who will take it seriously, let's talk. I'll give you an honest assessment of whether we're a good fit and how I can help."
+  }
+}
+
