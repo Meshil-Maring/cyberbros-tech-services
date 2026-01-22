@@ -35,9 +35,9 @@ export default function RecentWork() {
             }
           />
         </div>
-        <div className="h-8 flex items-center ">
-          <p className="text-[18px] text-white/60">View all projects</p>
-          <FaArrowRight className=" text-white/60 ml-3 text-xl" />
+        <div className="h-8 flex items-center cursor-pointer ">
+          <p className="text-[18px] text-white/60">View all projects </p>
+          <FaArrowRight className=" text-white/60 ml-1 mt-1 text " />
         </div>
       </div>
     </div>

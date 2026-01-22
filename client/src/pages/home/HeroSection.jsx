@@ -3,9 +3,9 @@ import { FaArrowRight } from "react-icons/fa";
 import ButtonWithIcon from "../../components/common/ButtonWithIcon";
 
 function HeroSection() {
-  const whitebtn =" flex justify-center items-center w-45 py-2 text-center border-2 border-white/10 text-l  bg-white/90 text-black";
+  const whitebtn =" flex justify-center items-center w-45 py-2 text-center cursor-pointer border-2 border-white/10 text-l  bg-white/90 text-black transform hover:scale-104 duration-100 ease-in-out";
 
-  const blackbtn =" flex text-white/90 justify-center items-center w-45 py-2 text-center border-2  border-white/50 text-l ";
+  const blackbtn =" flex text-white/90 justify-center items-center w-45 py-2 text-center cursor-pointer border-2  border-white/50 text-l transform hover:scale-104 duration-100 ease-in-out";
   return (
     <div className="h-screen w-full  text-white flex justify-center items-center">
       <div className="h-screen flex items-center text-white/90 w-270">
@@ -15,7 +15,7 @@ function HeroSection() {
             with confidence.
           </h2>
 
-          <p className="text-white/60 text-xl my-8">
+          <p className="text-white/60 text-xl my-8 ">
             Through Structured planning, clear communication , and attention to
             technical detail. We deliver web solutions that work seamlessly and
             scale with your bussiness needs.
@@ -24,7 +24,7 @@ function HeroSection() {
           <div className=" flex gap-4 mt-12">
             <ButtonWithIcon
               title={"Start a Project"}
-              icon={<FaArrowRight className=" ml-2" />}
+              icon={<FaArrowRight className=" ml-1 mt-1 text " />}
               btn={whitebtn}
             />
             <ButtonWithIcon title={"View my Process"} btn={blackbtn} />

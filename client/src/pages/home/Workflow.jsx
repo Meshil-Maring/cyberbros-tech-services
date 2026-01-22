@@ -37,9 +37,9 @@ function Workflow() {
             }
           />
         </div>
-        <div className="h-8 flex items-center ">
+         <div className="h-8 flex items-center cursor-pointer">
           <p className="text-[18px] text-white/60">See detailed workflow</p>
-          <FaArrowRight className=" text-white/60 ml-3 text-xl" />
+          <FaArrowRight className=" text-white/60 ml-1 mt-1 text " />
         </div>
       </div>
     </div>

@@ -10,29 +10,32 @@ function ContactForm() {
   } = useForm();
 
   const whitebtn =
-    " flex justify-center items-center w-full py-2 text-center text-l  bg-white/90 text-black";
+    " flex justify-center items-center w-full py-2 text-center text-l  bg-white/90 text-black cursor-pointer  transform hover:scale-104 duration-100 ease-in-out";
 
- const submitForm = async (data) => {
-  try {
-    const response = await fetch("https://your-backend.com/api/contact", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json", // important
-      },
-      body: JSON.stringify(data), // convert JS object to JSON
-    });
+//  const submitForm = async (data) => {
+//   try {
+//     const response = await fetch("https://your-backend.com/api/contact", {
+//       method: "POST",
+//       headers: {
+//         "Content-Type": "application/json", // important
+//       },
+//       body: JSON.stringify(data), // convert JS object to JSON
+//     });
 
-    const result = await response.json();
-    console.log("Success:", result);
+//     const result = await response.json();
+//     console.log("Success:", result);
 
-    // Optional: alert user
-    alert("Form submitted successfully!");
-  } catch (error) {
-    console.error("Error:", error);
-    alert("Something went wrong!");
-  }
-};
+//     // Optional: alert user
+//     alert("Form submitted successfully!");
+//   } catch (error) {
+//     console.error("Error:", error);
+//     alert("Something went wrong!");
+//   }
+// };
 
+function submitForm(){
+  console.log(data)
+}
 
   return (
     <div className="w-lg h-180 ">

@@ -13,7 +13,7 @@ function Navbar() {
                 key={index}
                 to={`/${path}`}
                 className={({ isActive }) =>
-                  `text-[18px] cursor-pointer transition
+                  `text-[18px] cursor-pointer transition hover:scale-110 transform
                    ${
                      isActive
                        ? "text-white/90"
