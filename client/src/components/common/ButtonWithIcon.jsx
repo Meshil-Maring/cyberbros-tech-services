@@ -2,7 +2,7 @@
 function ButtonWithIcon({title,icon, btn}) {
 
   return (
-    <div>
+    <div >
       <button className={btn}>{title}
       <span>{icon}</span>
       </button>

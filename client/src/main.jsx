@@ -9,6 +9,9 @@ import Service from './pages/Service/Service.jsx'
 import Process from './pages/process/Process.jsx'
 import Work from './pages/work/Work.jsx'
 import About from './pages/about/About.jsx'
+import ProjectForm from './pages/home/ProjectForm.jsx'
+import SignUp from './pages/authonication/SignUp.jsx'
+import Login from './pages/authonication/Login.jsx'
 
 const router = createBrowserRouter(createRoutesFromElements(
   <Route path='/' element={<App/>} >
@@ -18,6 +21,12 @@ const router = createBrowserRouter(createRoutesFromElements(
     <Route path='Work' element={<Work/>}/>
     <Route path='About' element={<About/>}/>
     <Route path='Contact' element={<Contact/>}/>
+    <Route path='Service/Contact' element={<Contact/>}/>
+    <Route path='ProjectForm' element={<ProjectForm/>}/>
+    <Route path='SignUp' element={<SignUp/>}/>
+    <Route path='Login' element={<Login/>}/>
+    <Route path='Login/SignUp' element={<SignUp/>}/>
+    
   
     </Route>
 ))

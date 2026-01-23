@@ -1,8 +1,9 @@
 import ButtonWithIcon from "../../components/common/ButtonWithIcon";
 import { FaArrowRight } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 function StartProject() {
-  const whitebtn = " flex justify-center items-center w-45 py-2 text-center text-l  bg-white/90 text-black"
+  const whitebtn = " flex justify-center items-center w-45 py-2 text-center text-l  bg-white/90 text-black cursor-pointer transform hover:scale-104 duration-100 ease-in-out"
   return (
     <div className="h-screen w-full bg-white/5 flex justify-center items-center">
       <div className="w-270 ">
@@ -12,7 +13,7 @@ function StartProject() {
           project receives proper attention. Clear pricing, honest timelines,
           and straightforward communication.
         </p>
-        <ButtonWithIcon title={"Get in touch"} icon={<FaArrowRight className=" ml-2" />} btn={whitebtn}/>
+        <Link to="Contact"><ButtonWithIcon title={"Get in touch"} icon={<FaArrowRight className=" ml-1 mt-1 text " />} btn={whitebtn}/></Link>
       </div>
     </div>
   );
