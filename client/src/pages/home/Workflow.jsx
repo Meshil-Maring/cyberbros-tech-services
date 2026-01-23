@@ -1,5 +1,6 @@
 import WorkflowCard from "../../components/common/WorkflowCard";
 import { FaArrowRight } from "react-icons/fa6";
+import { Link } from "react-router-dom";
 
 
 
@@ -37,10 +38,11 @@ function Workflow() {
             }
           />
         </div>
-         <div className="h-8 flex items-center cursor-pointer">
-          <p className="text-[18px] text-white/60">See detailed workflow</p>
-          <FaArrowRight className=" text-white/60 ml-1 mt-1 text " />
-        </div>
+         <Link to={"Work"}>
+         <div className=" flex items-center text-white/60 hover:text-white/80 ">
+          <p className="text-[18px] ">See detailed workflow</p>
+          <FaArrowRight className=" ml-1 mt-1 text " />
+        </div></Link>
       </div>
     </div>
   )

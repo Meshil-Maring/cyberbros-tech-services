@@ -1,4 +1,4 @@
-
+import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import ButtonWithIcon from "../../components/common/ButtonWithIcon";
 
@@ -27,7 +27,7 @@ function HeroSection() {
               icon={<FaArrowRight className=" ml-1 mt-1 text " />}
               btn={whitebtn}
             />
-            <ButtonWithIcon title={"View my Process"} btn={blackbtn} />
+            <Link to={"Process"}><ButtonWithIcon title={"View my Process"} btn={blackbtn} /></Link>
           </div>
         </div>
       </div>

@@ -18,6 +18,7 @@ const router = createBrowserRouter(createRoutesFromElements(
     <Route path='Work' element={<Work/>}/>
     <Route path='About' element={<About/>}/>
     <Route path='Contact' element={<Contact/>}/>
+    <Route path='Service/Contact' element={<Contact/>}/>
   
     </Route>
 ))

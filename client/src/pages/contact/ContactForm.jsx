@@ -39,7 +39,7 @@ function submitForm(){
 
   return (
     <div className="w-lg h-180 ">
-      <form action="" onSubmit={handleSubmit(submitForm)}>
+      <form action="https://formspree.io/f/mnjpprvv" method="POST">
         <div className="w-full flex flex-col gap-3 mb-8 ">
           <label htmlFor="name">Your Name</label>
           <input

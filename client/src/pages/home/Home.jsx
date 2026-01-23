@@ -6,6 +6,7 @@ import HeroSection from "./HeroSection";
 import Workflow from "./Workflow";
 import WhyToChoose from "./WhyToChoose";
 import WhatWeDo from "./WhatWeDo";
+import ProjectForm from "./ProjectForm";
 
 function Home() {
   return (
@@ -19,6 +20,7 @@ function Home() {
       <Workflow />
       <RecentWork />
       <StartProject />
+      <ProjectForm />
     </div>
   );
 }

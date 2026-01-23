@@ -1,5 +1,6 @@
 import ServiceCard from '../../components/common/ServiceCard' 
 import { FaArrowRight } from "react-icons/fa6";
+import { Link } from 'react-router-dom';
 
 
 function WhatWeDo() {
@@ -47,10 +48,11 @@ function WhatWeDo() {
             }
           />
         </div>
-         <div className="h-8 flex items-center cursor-pointer ">
-          <p className="text-[18px] text-white/60">View all services </p>
-          <FaArrowRight className=" text-white/60 ml-1 mt-1 text " />
-        </div>
+         <Link to={"Service"}>
+         <div className="h-8 text-white/60 flex items-center cursor-pointer hover:text-white/80">
+          <p className="text-[18px] ">View all services </p>
+          <FaArrowRight className=" ml-1 mt-1 text " />
+        </div></Link>
       </div>
     </div>
   )

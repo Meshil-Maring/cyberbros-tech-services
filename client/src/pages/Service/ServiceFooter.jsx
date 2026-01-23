@@ -1,9 +1,10 @@
 import { FaArrowRight } from "react-icons/fa";
 import ButtonWithIcon from "../../components/common/ButtonWithIcon";
+import { Link } from "react-router-dom";
 
 function ServiceFooter() {
   const whitebtn =
-    " flex justify-center items-center px-4 py-2 text-center border-2 border-white/10 text-l  bg-white/90 text-black cursor-pointer";
+    " flex justify-center items-center px-4 py-2 text-center border-2 border-white/10 text-l  bg-white/90 text-black cursor-pointer transform hover:scale-105 duration-100";
   return (
     <div className="w-full  text-white flex justify-center items-center">
       <div className="mt-4 mb-30 pt-12 flex items-center text-white/90 w-270 border-white/20 border-t">
@@ -18,11 +19,12 @@ function ServiceFooter() {
             goals.
           </p>
 
+          <Link  to="Contact">
           <ButtonWithIcon
             title={"Schedule a Conversation"}
             icon={<FaArrowRight className=" ml-1 mt-1 text " />}
             btn={whitebtn}
-          />
+          /></Link>
         </div>
       </div>
     </div>
