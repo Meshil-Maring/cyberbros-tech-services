@@ -12,6 +12,7 @@ import About from './pages/about/About.jsx'
 import ProjectForm from './pages/home/ProjectForm.jsx'
 import SignUp from './pages/authonication/SignUp.jsx'
 import Login from './pages/authonication/Login.jsx'
+import TermsAndCondition from './components/layout/TermsAndCondition.jsx'
 
 const router = createBrowserRouter(createRoutesFromElements(
   <Route path='/' element={<App/>} >
@@ -26,6 +27,8 @@ const router = createBrowserRouter(createRoutesFromElements(
     <Route path='SignUp' element={<SignUp/>}/>
     <Route path='Login' element={<Login/>}/>
     <Route path='Login/SignUp' element={<SignUp/>}/>
+    <Route path='/TermsAndCondition' element={<TermsAndCondition/>}/>
+    
     
   
     </Route>

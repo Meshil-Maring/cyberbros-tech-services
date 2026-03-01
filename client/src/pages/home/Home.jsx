@@ -13,7 +13,7 @@ function Home() {
   return (
     <div
       id="home"
-      className=" text-white/90 bg-black font-sens flex flex-col items-center"
+      className=" text-white/90 bg-black font-sens flex flex-col items-center "
     >
       <HeroSection />
       <WhyToChoose />

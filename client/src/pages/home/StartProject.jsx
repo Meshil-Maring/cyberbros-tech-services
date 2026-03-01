@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function StartProject() {
   const whitebtn = " flex justify-center items-center w-45 py-2 text-center text-l  bg-white/90 text-black cursor-pointer transform hover:scale-104 duration-100 ease-in-out"
   return (
-    <div className="h-screen w-full bg-white/5 flex justify-center items-center">
+    <div className="h-screen w-full bg-white/5 flex justify-center items-center ">
       <div className="w-270 ">
         <h3 className="text-3xl mb-8">Ready to start your project? </h3>
         <p className='text-[16px] text-white/60 mb-8 w-[65%]'>
