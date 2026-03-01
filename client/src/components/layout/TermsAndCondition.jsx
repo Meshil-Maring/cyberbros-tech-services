@@ -58,7 +58,7 @@ function TermsAndCondition() {
           if payments are delayed beyond the agreed timeline.
         </p>
 
-        <div className="border-t border-white/10 pt-6 mt-10 text-sm text-white/50">
+        <div className="border-t border-white/10 pt-6 my-10 text-sm text-white/50">
           Last Updated: {new Date().toLocaleDateString()}
         </div>
 
